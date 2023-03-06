@@ -1,5 +1,5 @@
 # Spa and Saloon Booking System Made With Laravel
-This is simple project for our software engineering course on our university given by our instructure for us to pass the course , this project done by me and my friend ayberk (https://github.com/pnzrkmpfwgn)
+This is simple project for our software engineering course on our university given by our instructor for us to pass the course , this project done by me and my friend ayberk (https://github.com/pnzrkmpfwgn)
 
 This is a very simple application for booking Spa and saloon services. For now it has no active payment services for sake of brevitiy and we really don't consider making any contract with any bank for demo application.  In this document I will show you how to run this application in windows.
 
